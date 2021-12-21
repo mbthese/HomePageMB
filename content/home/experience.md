@@ -9,14 +9,14 @@ subtitle: null
 date_format: Jan 2006
 ---
 experience: 
-- title: Environment project manager
+- title: "Environment project manager" 
   company: Office national des forêts
   company_url: https://www.onf.fr/
   company_logo: onf
   location: Mayotte
   date_start: '2019-05-01'
-  date_end: '2020-10-01'
-  description: "  Responsibilities include:
+  date_end: "2020-10-01" 
+  description: "Responsibilities include:" 
     * Ecological restoration 
     * Mitigation measures 
     * Creation of the National Nature Reserve 
