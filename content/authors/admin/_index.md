@@ -1,39 +1,40 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Marion Boisseaux
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD student in tropical ecology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Université de Guyane
+  url: https://www.univ-guyane.fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research focuses on tropical tree species’ mechanistic traits and their spatial distribution across contrasted habitats in the context of climate change. I am also interested in the role microorganisms play in the plants' responses. 
+ 
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Ecophysiology
+- Microbiology
+- Bioinformatics
 
 # Education to show in About widget
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+
+  - course: Engineer in Horticulture
+    institution: Agrocampus-Ouest, France.  
+    year: 2018
+    - course: Major in environmental managment of ecosystems and tropical forests (GEEFT)
+    institution: AgroParisTech, France. 
+    year: 2017
+  - course: Study abroad (ERASMUS) - plant science 
+    institution: Wageningen University, The Netherlands
+    year: 2016
+  
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,8 +71,6 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hi, I'm Marion ! I'm a PhD student and my research focuses on tropical tree species’ mechanistic traits and their spatial distribution across contrasted habitats in the context of climate change. I am also interested in the role microorganisms play in the plants' responses. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
