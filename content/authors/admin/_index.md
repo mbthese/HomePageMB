@@ -24,11 +24,12 @@ interests:
 - Bioinformatics
 
 # Education to show in About widget
-
+education:
+  courses:
   - course: Engineer in Horticulture
     institution: Agrocampus-Ouest, France.  
     year: 2018
-    - course: Major in environmental managment of ecosystems and tropical forests (GEEFT)
+  - course: Major in environmental managment of ecosystems and tropical forests (GEEFT)
     institution: AgroParisTech, France. 
     year: 2017
   - course: Study abroad (ERASMUS) - plant science 
