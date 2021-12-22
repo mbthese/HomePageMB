@@ -36,14 +36,14 @@ experience:
         * Mitigation measures
         * Creation of National Nature Reserve
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Master thesis internship
+    company: IRD
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: ird
+    location: Montpellier
+    date_start: '2018-04-01'
+    date_end: '2018-09-31'
+    description: Study of bacterial signals in the tropical symbiotic N-fixation relationship Casuarina /Frankia.
 
 design:
   columns: '2'
