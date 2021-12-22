@@ -38,11 +38,11 @@ experience:
         
   - title: Master thesis internship
     company: IRD
-    company_url: ''
+    company_url: 'https://en.ird.fr/node/8'
     company_logo: ird
     location: Montpellier
     date_start: '2018-04-01'
-    date_end: '2018-09-31'
+    date_end: '2018-09-30'
     description: Study of bacterial signals in the tropical symbiotic N-fixation relationship Casuarina /Frankia.
 
 design:
