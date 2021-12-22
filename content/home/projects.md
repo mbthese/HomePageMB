@@ -23,7 +23,7 @@ content:
 # Projects
 
 project:
-- title: DRYER
+    title: DRYER
     company: Funded by Labex Ceba 
     company_url: ''
     company_logo: ceba
