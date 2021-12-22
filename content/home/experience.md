@@ -24,11 +24,11 @@ date_format: Jan 2006
 experience:
   - title: Environment project manager
     company: Office national des forêts
-    company_url: 'https://www.onf.fr/'
+    company_url: 'https://www.onf.fr/' 
     company_logo: onf
-    location: Mayotte
-    date_start: '2019-05-01'
-    date_end: '2020-10-01'
+    location: Mayotte 
+    date_start: '2019-05-01' 
+    date_end: '2020-10-01' 
     description: |2-
         Responsibilities include:
         
@@ -36,13 +36,13 @@ experience:
         * Mitigation measures
         * Creation of National Nature Reserve
         
-  - title: Master thesis internship 
+  - title: Master thesis internship
     company: IRD (Research Institute for Developement)
     company_url: 'https://en.ird.fr/node/8'
-    company_logo:
-    location: Montpellier
+    company_logo: ird
+    location: California
     date_start: '2018-04-01'
-    date_end: '2018-09-14'
+    date_end: '2018-09-31'
     description: Study of bacterial signals in the tropical symbiotic N-fixation relationship Casuarina / Frankia.
 
 design:
