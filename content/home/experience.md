@@ -5,8 +5,8 @@ weight: 40
 widget: experience
 subtitle: null
 date_format: Jan 2006
-
 ---
+
  
 - title: Environment project manager 
   company: Office national des forêts
@@ -32,3 +32,4 @@ date_format: Jan 2006
 design: 
   column: '2'
 
+---
