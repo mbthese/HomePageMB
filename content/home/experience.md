@@ -18,7 +18,7 @@ date_format: Jan 2006
   description: "  Responsibilities include:\n  \n  * Ecological restoration\n  * Mitigation
     measures\n  * Creation of National Nature Reserve\n  " 
 
----    
+   
 - title: Master thesis internship
   company: IRD (Research Institute for Developement)
   company_url: https://en.ird.fr/node/8
@@ -28,4 +28,7 @@ date_format: Jan 2006
   date_end: '2018-09-31'
   description: Study of bacterial signals in the tropical symbiotic N-fixation relationship
     Casuarina / Frankia.
+
+design: 
+  column: '2'
 
