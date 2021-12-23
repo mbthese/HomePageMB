@@ -43,8 +43,8 @@ experience:
     location: Montpellier
     date_start: '2018-04-01'
     date_end: '2018-09-30'
-    description: Study of bacterial signals in the tropical symbiotic N-fixation relationship Casuarina /Frankia.
-    
+    description: Study of bacterial signals in the tropical symbiotic N-fixation relationship Casuarina /Frankia. 
+     
     - title: Research internship
     company: Laval University 
     company_url: 'https://www.ulaval.ca/en'
