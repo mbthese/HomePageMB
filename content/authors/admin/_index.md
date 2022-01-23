@@ -11,7 +11,9 @@ role: PhD student in tropical ecology
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Université de Guyane
-  url: https://www.univ-guyane.fr/
+  url: https://www.univ-guyane.fr/ 
+- name: Ecofog 
+  url : https://www.ecofog.gf/ 
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research focuses on tropical tree species’ mechanistic traits and their spatial distribution across contrasted habitats in the context of climate change. I am also interested in the role microorganisms play in the plants' responses. 
@@ -44,19 +46,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: '/#contact' # For a direct email link, use "mailto:marion.boisseaux@etu.univ-guyane.fr". 
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/mbthese 
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/boisseaux-marion-9a9587105/ 
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -66,7 +65,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "marion.boisseaux@etu.univ-guyane.fr"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
