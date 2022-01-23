@@ -49,7 +49,7 @@ social:
   link: '/#contact' # For a direct email link, use "mailto:marion.boisseaux@etu.univ-guyane.fr". 
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?hl=en&user=aeFLT_oAAAAJ&view_op=list_works&gmla=AJsN-F5eNPCp9jXpz6PXWqFJDvEiljhVcVvcbPdUyZWzZnYgJhGuYqYhTPPoVneqEB3jdcU4RdHuOY2eHZZ6arGcJ7ShE31rRO2hvlOw-QyjSFv0Dy3geZA
 - icon: github
   icon_pack: fab
   link: https://github.com/mbthese 
