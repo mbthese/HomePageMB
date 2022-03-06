@@ -1,0 +1,21 @@
+---
+title: Tropical tree species’ mechanistic traits and their spatial distribution across contrasted habitats in the context of climate change
+event: "Guest Speaker at Scoffoni's Lab"
+location: Scoffoni's Lab
+author: Marion Boisseaux
+date: '2019-07-31'
+slug: atbc
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-10-14T15:34:54+02:00'
+featured: no
+# image:
+#   caption: ''
+#   focal_point: ''
+#   preview_only: no
+# projects: []
+url_slides: "https://docs.google.com/presentation/d/1uClZpI6Vq9d7ER_hyA-TetJR2So5b3ELD3Ul0QyuyYI/edit?usp=sharing"
+---
