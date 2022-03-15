@@ -69,4 +69,4 @@ highlight_name: true
 
 Hi, I'm Marion ! I'm a PhD student and my research focuses on tropical tree species’ mechanistic traits and their spatial distribution across contrasted habitats in the context of climate change. I am also interested in the role microorganisms play in the plants' responses. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
