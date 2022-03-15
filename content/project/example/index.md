@@ -9,7 +9,7 @@ date: "May 2021 - Present"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo by Marion Boisseaux
   focal_point: Smart
 
 links:
