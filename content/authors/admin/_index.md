@@ -6,28 +6,34 @@ title: Marion Boisseaux
 superuser: true
 
 # Role/position/tagline
-role: PhD student in tropical ecology
+role: Post doctoral researcher at Cal State University, Los Angeles, USA
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Université de Guyane
-  url: https://www.univ-guyane.fr/ 
+- name: Cal State University
+  url: https://www.calstatela.edu/
 - name: Ecofog 
   url : https://www.ecofog.gf/ 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on tropical tree species’ mechanistic traits and their spatial distribution across contrasted habitats in the context of climate change. I am also interested in the role microorganisms play in the plants' responses. 
+bio: My research focuses on tropical tree species’ functional traits and their spatial distribution across contrasted habitats in the context of climate change. I am also interested in the role microorganisms play in the plants' responses. During my post-doc, I will look more in depth at leaf and root trait coordination under drought, with a special interest for root hydraulics.
  
 
 # Interests to show in About widget
 interests:
-- Ecophysiology
+- Plant ecology
+- Plant ecophysiology
+- Botany
+- Drought resilience
 - Microbiology
 - Bioinformatics
 
 # Education to show in About widget
 education:
   courses:
+  - course: PhD in Tropical Ecology
+    institution: Université de Guyane, UMR EcoFog
+    year: 2020-2023
   - course: Engineer in Horticulture
     institution: Agrocampus-Ouest, France.  
     year: 2018
@@ -61,12 +67,12 @@ social:
   link: uploads/resume.pdf 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "marion.boisseaux@etu.univ-guyane.fr"
+email: "marionboisseaux@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Hi, I'm Marion ! I'm a PhD student and my research focuses on tropical tree species’ mechanistic traits and their spatial distribution across contrasted habitats in the context of climate change. I am also interested in the role microorganisms play in the plants' responses. 
+Hi, I'm Marion ! I'm a post doctoral researcher and my research focuses on tropical tree species’ functional traits and their spatial distribution across contrasted habitats in the context of climate change. I am also interested in the role microorganisms play in the plants' responses. During my post-doc, I will look more in depth at leaf and root trait coordination under drought, with a special interest for root hydraulics. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
